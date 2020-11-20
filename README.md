@@ -1,6 +1,6 @@
 # paytm_gateway
 
-A new Flutter application.
+A new Flutter application with paytm payment gateway integrated.
 
 ## Getting Started
 
